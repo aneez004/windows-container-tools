@@ -1,0 +1,24 @@
+{
+  "LogConfig": {
+    "sources": [
+      {
+        "type": "File",
+        "directory": "c:\\inetpub\\logs",
+        "filter": "*.log",
+        "includeSubdirectories": true
+      },
+      {
+        "type": "File",
+        "directory": "c:\\wwwroot\\Clarity.Services\\LogFiles",
+        "filter": "*.log",
+        "includeSubdirectories": true
+      },
+      {
+        "type": "File",
+        "directory": "c:\\wwwroot\\Clarity.Web\\LogFiles",
+        "filter": "*.log",
+        "includeSubdirectories": true
+      },
+    ]
+  }
+}
