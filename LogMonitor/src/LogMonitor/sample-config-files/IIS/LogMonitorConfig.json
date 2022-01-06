@@ -24,13 +24,13 @@
       },
       {
         "type": "File",
-        "directory": "c:\\wwwroot\\Clarity.Services\LogFiles",
+        "directory": "c:\\wwwroot\\Clarity.Services\\LogFiles",
         "filter": "*.log",
         "includeSubdirectories": true
       },
       {
         "type": "File",
-        "directory": "c:\\wwwroot\\Clarity.Web\LogFiles",
+        "directory": "c:\\wwwroot\\Clarity.Web\\LogFiles",
         "filter": "*.log",
         "includeSubdirectories": true
       },
