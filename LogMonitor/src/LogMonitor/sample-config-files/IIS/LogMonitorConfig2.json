@@ -18,7 +18,7 @@
         "directory": "c:\\wwwroot\\Clarity.Web\\LogFiles",
         "filter": "*.log",
         "includeSubdirectories": true
-      },
+      }
     ]
   }
 }
