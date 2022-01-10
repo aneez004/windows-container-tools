@@ -3,13 +3,25 @@
     "sources": [
       {
         "type": "File",
+        "directory": "c:\\wwwroot\\Clarity.Web",
+        "filter": "*.log",
+        "includeSubdirectories": true
+      },
+       {
+        "type": "File",
         "directory": "c:\\wwwroot\\Clarity.Services",
+        "filter": "*.log",
+        "includeSubdirectories": true
+      },
+       {
+        "type": "File",
+        "directory": "c:\\wwwroot\\IBP\\Clarity.API",
         "filter": "*.log",
         "includeSubdirectories": true
       },
       {
         "type": "File",
-        "directory": "c:\\wwwroot\\Clarity.Web",
+        "directory": "c:\\wwwroot\\Clarity.API",
         "filter": "*.log",
         "includeSubdirectories": true
       }
